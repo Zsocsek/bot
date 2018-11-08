@@ -1,0 +1,2 @@
+git remote add origin https://github.com/davidsantos-br/ETS2Sync-Helper-4/blob/master/README.md#ets2sync-helper-v40
+git push -u origin master
